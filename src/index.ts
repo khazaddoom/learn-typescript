@@ -1,5 +1,5 @@
-let value: string = '1000'
-let value2: any = '2000'
+let value: number = 1000
+let value2: number = 2000
 console.log(value + value2)
 
 const fun = (value: string) => {
