@@ -1,0 +1,19 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc index.ts -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:khazaddoom/learn-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
